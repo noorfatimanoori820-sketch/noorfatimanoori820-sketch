@@ -1,4 +1,4 @@
-1[logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tiktok.com%2Fdiscover%2Fnoor-fatima-name-dp&psig=AOvVaw1DRfGLAl1jrRlcz0PvhkQh&ust=1759256634422000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKClourL_o8DFQAAAAAdAAAAABAE)
+
 <h1 align="center">Hi 👋, I'm Noor Fatima</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3hwODJzcDNpdDFnMXBydGlvY2s2NzZrdm1sYzhxZzZkdnhtMXk3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
